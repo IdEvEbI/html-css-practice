@@ -1,0 +1,20 @@
+{
+  "name": "html-css-practice",
+  "version": "1.0.0",
+  "private": true,
+  "repository": "git@github.com:IdEvEbI/html-css-practice.git",
+  "author": "IdevebI <idevebi@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
