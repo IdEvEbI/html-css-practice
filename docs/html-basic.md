@@ -388,6 +388,8 @@ VSCode 下载地址：<https://code.visualstudio.com>
 
 ## 三. 综合案例
 
+> 笔记对应视频：[P21 ~ P23](https://www.bilibili.com/video/BV1Kg411T7t9?p=21)。
+
 ### 01. 腾讯招聘
 
 #### 腾讯招聘 - 案例目标
